@@ -57,7 +57,7 @@ The dashboard provides insights into:
 
 ## 📖 Learning Source  
 This project was developed by following the YouTube tutorial:  
-👉 [Power BI Project End to End | Dashboard for Beginners](https://youtu.be/j4xlVLgsmNQ?si=ub8F2xLspiPsZl6O) by **Rishabh Mishra** 
+👉 [Power BI Project End to End | Dashboard](https://youtu.be/j4xlVLgsmNQ?si=ub8F2xLspiPsZl6O) by **Rishabh Mishra** 
 👉 [Github](https://github.com/rishabhnmishra)
 
 ---
