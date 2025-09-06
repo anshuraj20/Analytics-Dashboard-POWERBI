@@ -35,7 +35,7 @@ The dashboard provides insights into:
 ---
 
 ## 📸 Dashboard Overview  
-
+![Dashboard Page](dashboard.png)
 
 
 ---
