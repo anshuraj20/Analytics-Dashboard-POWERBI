@@ -42,7 +42,7 @@ The dashboard provides insights into:
 
 ## 🔑 Key Insights  
 - Higher attrition observed in specific job roles and departments.  
-- Attrition trends influenced by **salary slab, age group, and performance rating**.  
+- Attrition trends influenced by **salary slab, age group, and etc...**.  
 - Training participation linked to higher performance ratings.  
 - Average tenure varies significantly across departments, highlighting retention issues.  
 
